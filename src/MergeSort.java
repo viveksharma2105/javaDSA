@@ -1,3 +1,4 @@
+// Merge Sort
 public class MergeSort {
     public static void conquer(int[] arr, int si, int mid, int ei) {
         int[] merged = new int[ei - si + 1];
